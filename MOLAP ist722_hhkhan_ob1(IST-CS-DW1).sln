@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ist722_hhkhan_ob1(IST-CS-DW1)", "<Server=ist-cs-dw1.ad.syr.edu;Database=ist722_hhkhan_ob1;>", "{D8E839D8-B4EE-4637-BCF8-AC1864F492AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8E839D8-B4EE-4637-BCF8-AC1864F492AE}.Development|Default.ActiveCfg = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EEC749C-86AA-4FA8-A4F4-BFFF9AEE9BD1}
+	EndGlobalSection
+EndGlobal
